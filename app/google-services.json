@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717925184438",
+    "project_id": "pokeclicker-50c7a",
+    "storage_bucket": "pokeclicker-50c7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717925184438:android:3c49b6b9cbef4d11c4c717",
+        "android_client_info": {
+          "package_name": "ipca.example.JogosAndroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSwW4s3mWxqLSDkyF1QqDys8Z4S32IrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717925184438:android:c8c69accf2047bc6c4c717",
+        "android_client_info": {
+          "package_name": "ipca.example.spacefighter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSwW4s3mWxqLSDkyF1QqDys8Z4S32IrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
