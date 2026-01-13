@@ -42,13 +42,14 @@
 ### Menu Inicial
 <img width="346" height="731" alt="Captura de ecrã 2026-01-13 134129" src="https://github.com/user-attachments/assets/55dc6627-a469-4a78-a5ce-41df47d39293" />
 
-## Seleção de Dificuldade
+### Seleção de Dificuldade
 <img width="344" height="728" alt="Captura de ecrã 2026-01-13 134137" src="https://github.com/user-attachments/assets/1ce1831a-b98b-4cba-9ed8-ea56c0be17f2" />
 
-## Jogo
+### Jogo
 <img width="343" height="726" alt="Captura de ecrã 2026-01-13 134148" src="https://github.com/user-attachments/assets/7177242d-cc97-44fa-a4e0-6fe421ffaf6e" />
 
-## Melhores Tempos
+### Melhores Tempos
 <img width="345" height="732" alt="Captura de ecrã 2026-01-13 134203" src="https://github.com/user-attachments/assets/5ba1c26c-4655-4bbe-8913-e8d47d973a84" />
 
-
+## Dificuldades Encontradas
+### Encontramos diversas dificuldades ao longo da criação deste projeto, sendo elas maioritariamente relacionadas com a criação de nonogramas e sudokus infinitos, pois a ideia inicial era dazer uso de api's, tal como se faz no jogo "PokeClicker", mas não existem api's de nonogramas e não existem api's de sudokus gratuitas, então optamos por usar uma api de imagens no caso do nonogram para obtermos imagens, após isso transforma-mos a imagem para preto e branco através de uma greyscale. Quanto ao Sudoku tivemos de recorrer a métodos matemáticos e probabilísticos, através de várias tentativas.
